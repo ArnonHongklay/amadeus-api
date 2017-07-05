@@ -36,9 +36,9 @@ Finally add this to the Gemfile:
 
 ### Install from Git
 
-If the Ruby gem is hosted at a git repository: https://github.com/YOUR_GIT_USERNAME/YOUR_GIT_REPO, then add the following in the Gemfile:
+If the Ruby gem is hosted at a git repository: https://github.com/arnonhongklay/amadeus-api, then add the following in the Gemfile:
 
-    gem 'swagger_client', :git => 'https://github.com/YOUR_GIT_USERNAME/YOUR_GIT_REPO.git'
+    gem 'swagger_client', :git => 'https://github.com/arnonhongklay/amadeus-api.git'
 
 ### Include the Ruby code directly
 
